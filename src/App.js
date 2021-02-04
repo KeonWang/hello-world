@@ -26,7 +26,7 @@ class App extends Component {
       return (
         <div className="App">
           <div className="data-display">
-            {(this.state.repoName===null)?"目前還有沒有資料123":this.state.repoName}
+            {(this.state.repoName===null)?"目前還有沒有資料12345":this.state.repoName}
           </div>
           <button onClick={this.handleClick}>取得jserv以英文字母排序的第一個repo</button>
     	</div>
