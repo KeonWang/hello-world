@@ -7,7 +7,7 @@ import Progress from './Progress'
 
 
 const printMessage=()=>{
-  document.getElementById('show-area').innerHTML="我被按到了1112223344";
+  document.getElementById('show-area').innerHTML="我被按到了1112223344525";
 }
 
 
